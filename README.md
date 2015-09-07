@@ -1,6 +1,9 @@
 # Dotfiles
 My setup on any given day.
 
-## Prerequisites
+## Installation
 
-* [vim-pathogen](https://github.com/tpope/vim-pathogen)
+```shell
+cp .vimrc ~
+make all
+```
