@@ -1,5 +1,5 @@
 # Dotfiles
-My tweaks for things like vim &amp; bash etc
+My setup on any given day.
 
 ## Prerequisites
 
