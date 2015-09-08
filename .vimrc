@@ -1,2 +1,2 @@
-# Run Pathogen
+" Run Pathogen
 execute pathogen#infect()
